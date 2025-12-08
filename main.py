@@ -1,5 +1,5 @@
 import pygame
-from apt.auth import update
+
 
 from constants import SCREEN_WIDTH, SCREEN_HEIGHT
 from logger import log_state
